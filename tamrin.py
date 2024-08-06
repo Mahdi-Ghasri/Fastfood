@@ -10,3 +10,5 @@ try:
     print(f"Age Is : {age}")
 except RuntimeError as error:
     print (error)
+
+print(100*'-')
